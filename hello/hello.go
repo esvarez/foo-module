@@ -3,5 +3,5 @@ package hello
 import "fmt"
 
 func SayVersion() {
-	fmt.Println("Hello from Version 1.0")
+	fmt.Println("Hello from Version 2.0")
 }
